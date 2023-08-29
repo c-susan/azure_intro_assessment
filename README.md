@@ -7,5 +7,5 @@ This repo documents my submission for **HHA504 Assignment 1: Azure Intro**. This
 This repo contains the following files:
 + **README.md**: Provides and overview of the assignment. 
 + **Azure Dashboard Screenshot.png**: A screenshot of my Azure Daashboard, demonstrating my registration and login into Azure. 
-+ **azure.md**: A markdown file containming my responses for the assignent. 
++ **azure.md**: A markdown file containing my responses for the assignent. 
 
