@@ -1,5 +1,4 @@
 # azure_intro_assessment
-### **HHA504 Assignment 1 : Intro to Azure**
 This repo documents my submission for **HHA504 Assignment 1: Azure Intro**. This assignment aims to help students familiarize themselves with the Microsoft Azure platform, it services, and integration points with Python.  
 <br>
 
