@@ -7,13 +7,11 @@
 ---
 
 ### **Compute**
-Services<br>
-- Azure Functions: 
-- App Service:
+- Azure Functions: A serverless compute service that allows users to code without having to worry about maintaining infrastructure and deployment. This service provides user with the tools and resources to keep their applications running. Compatible languages includes C#, Java, JavaScript, PowerShell, and Python. Azure Functions can integrate with development tools such as Visual Studio Code and Maven for depolyments and debugging and provides various hosting options. Functions is compatible with Python and can be used through Visual Studio Code with the Azure Functions extension or the command line.  
+- App Service: App service is HTTP-based for hosting web applications, REST APIs, and mobile back end. It is compatible with multiple languages and frameworks, such as ASP.NET, ASP.NET Core, Java, Ruby, Node.js, PHP, and Python. Key features includes a managed production environment, DevOps optimization, scalability, security, authentication, integration with Visual Studio and Visual Studio Code, and Java integration tools. This service can interact with Python by deploying a Python web application, such as Flask or Django. 
   
 ---
 
 ### **Databases**
-Services<br>
-- Azure Cosmos DB: 
-- Azure SQL Database: 
+- Azure Cosmos DB: A NoSQL database for app development that is fully managed, fast, and instantly scalable. Features include fast speeds with global read and write latencies, simplified application development, and a cost-effective fully managed database service. Azure Cosmos DB can be used with Python through Python SDK 
+- Azure SQL Database: A fully managed SQL database engine that can upgrade, patch, backup, and monitor without user involvement. It includes various service (general purpose, business critical, or hyperscale) and compute (provisioned compute or serverless compute) tiers and purchasing (vCore-based purchasing or  DTU-based purchasing) and deployment (single database or elastic pool) models. This service also include advanced monitoring and alerting features, advanced security and threat protection, query procesing, and data encryption. For python interaction, the pyodbc driver can be installed in Visual Studio Code to connect to the Azure SQL database. 
